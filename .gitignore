@@ -1,3 +1,4 @@
 *.o
 fft_bass
+syscall_timing_test
 timestamps.txt
